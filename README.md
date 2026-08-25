@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Omer 👋</h1>
 
-<p align="center">Full-stack developer at heart, systems programmer at soul 🖤 — living inside 600,000+ line C++/C codebases, getting excited whenever something says "no null".</p>
+<p align="center">Full-stack developer at heart, systems programmer at soul 🖤 — living inside 600,000+ line C++/C/C# codebases, getting excited whenever something says "no null".</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
