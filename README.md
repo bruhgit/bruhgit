@@ -1,36 +1,53 @@
 <h1 align="center">Hey, I'm Omer 👋</h1>
 
-<p align="center">Full-stack developer at heart, systems programmer at soul 🖤 — living inside 600,000+ line C++/C/C# codebases, getting excited whenever something says "no null".</p>
+<p align="center">
+  <b>Full-stack developer at heart, systems programmer at soul 🖤</b><br>
+  <i>Living inside 600,000+ line C++/C/C# codebases, getting excited whenever something says "no null".</i>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <a href="https://bruhgit.github.io/">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-bruhgit.github.io-00FF66?style=for-the-badge&logoColor=black" alt="Live Website" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++23-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white" />
+  <img src="https://img.shields.io/badge/DirectX_12-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/SDL3-1774BD?style=for-the-badge&logo=libsdl&logoColor=white" />
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
 </p>
 
+---
+
 ## 🔨 What I'm building
 
-- 👑 **Uranium** —
-An open-source programming language. It features its own JIT and bytecode, and was written using C++.
+- 👑 **[Uranium](https://github.com/bruhgit/Uranium-Programming-Language)** — An open-source programming language with its own Virtual Machine, JIT compiler, and custom GC (450,000+ lines of C++).
+- ⚡ **[Bolt](https://github.com/bruhgit/Bolt)** — Hardware-accelerated, modern graphical user interface library based on SDL3 in pure C.
+- 🪟 **[OpenDock](https://github.com/bruhgit/OpenDock)** — Open-source MacOS-style dock app for Windows powered by C# and WinUI 3.
+- 🏗️ **[OMake](https://github.com/bruhgit/OMake)** — Ultra-fast native build automation system written in C.
+- 📚 **[DevNotes](https://github.com/bruhgit/DevNotes)** — Modern developer reference notes and algorithms dictionary written in C++.
 
-- 🪟 **OpenDock** — open-source dock app for Windows (C#), aiming to outdo the macOS dock
-
-- ⚡**Bolt** —
-It is an open-source graphical user interface library based on SDL3; it is written in C and features a simple syntax.
-
-- 🏗️ **OMake** —
-The open-source build system was written in C.
+---
 
 ## 🧠 How I work
 
-- ~250-1000 lines of code on an average day
+- ⚡ **~250-1000 lines of high-performance code** on an average day
+- 🛡️ **Zero Null Pointers & Memory Safety** through strict RAII and modern paradigms
+
+---
 
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cmake,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,cmake,vscode,visualstudio,git,windows,linux" />
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bruhgit&show_icons=true&theme=tokyonight&bg_color=050505&border_color=00ff66&title_color=00ff66&text_color=e0e0e0&hide_border=false" alt="bruhgit GitHub Stats" />
+</div>
