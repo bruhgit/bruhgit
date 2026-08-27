@@ -2,13 +2,14 @@
 
 <p align="center">
   <b>Full-stack developer at heart, systems programmer at soul 🖤</b><br>
-  <i>Living inside 600,000+ line C++/C/C# codebases, getting excited whenever something says "no null".</i>
+  <i>Living inside 600,000+ line C++/C/C# codebases, getting excited whenever something says "no null" <b>(LOL, not real, segfaults build character)</b>.</i>
 </p>
 
 <p align="center">
   <a href="https://bruhgit.github.io/">
     <img src="https://img.shields.io/badge/🌐_PORTFOLIO-bruhgit.github.io-00FF66?style=for-the-badge&logoColor=black" alt="Live Website" />
   </a>
+  <img src="https://img.shields.io/github/followers/bruhgit?label=Followers&style=for-the-badge&logo=github&color=00FF66&labelColor=050505" alt="GitHub Followers" />
 </p>
 
 <p align="center">
@@ -36,7 +37,7 @@
 ## 🧠 How I work
 
 - ⚡ **~250-1000 lines of high-performance code** on an average day
-- 🛡️ **Zero Null Pointers & Memory Safety** through strict RAII and modern paradigms
+- 🛡️ **Zero Null Pointers & Memory Safety** through strict RAII *(LOL, not real... unless?)*
 
 ---
 
@@ -49,5 +50,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bruhgit&show_icons=true&theme=tokyonight&bg_color=050505&border_color=00ff66&title_color=00ff66&text_color=e0e0e0&hide_border=false" alt="bruhgit GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bruhgit&show_icons=true&theme=tokyonight&bg_color=050505&border_color=00ff66&title_color=00ff66&text_color=e0e0e0&hide_border=false" alt="bruhgit GitHub Stats" />
 </div>
